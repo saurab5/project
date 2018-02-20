@@ -1,0 +1,222 @@
+#mid{
+    height: 650px;
+    width: auto;
+}
+
+
+
+.dropbtn {
+    background-color:transparent;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    line-height: 20px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:#aeaaaf;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.9);
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover 
+{
+    background-color: none;
+    color:black;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color:none;
+}
+
+
+#login{
+    font-size: inherit;
+    width: 613px;
+    margin-top: 75px;
+    float: left;
+    margin-left: 25px;
+    color: #e91c1c;
+}
+
+#login h2{
+    font-weight: normal;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 26px;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 50px;
+}
+
+#login p{
+    line-height: 30px;
+    padding-bottom: 15px;
+    font-family: 'Open Sans', sans-serif;
+    color: #a94442;
+}
+
+form input[type=text] {
+    width: 29%;
+    height: 34px;
+    background-color: #f7f2f9; 
+    padding: 6px 12px;
+    margin: 8px ;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#login textarea {
+    width: 94%;
+    height: 150px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f7f2f9; 
+    padding: 6px 12px;
+    margin: 8px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+}
+
+#login button {
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-left: 6px;
+}
+
+#login fieldset{
+border-color: red;
+}
+
+#signin{
+    font-size: inherit;
+    width: 572px;
+    margin-top: 112px;
+    float: left;
+    margin-left: 82px;
+    color: #e91c1c;
+}
+
+form input[type=password]
+{
+    width: 29%;
+    height: 34px;
+    background-color: #f7f2f9; 
+    padding: 6px 12px;
+    margin: 8px ;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form select{
+    width: 188.75px;
+    height: 34px;
+    background-color: #f7f2f9; 
+    padding: 6px 12px;
+    margin: 8px ;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+ 
+#middlebody{
+    margin-top: 150px;
+    width: 770px;
+    margin-left:54px;
+    margin-bottom: 40px;
+    margin-bottom: 50px;
+
+} 
+
+
+#middlebody form select{
+    width: 29px;
+}
+
+body #middlecontainer
+{
+    height: auto;
+    width: 1000px;
+    margin-left: 46px;
+    margin-top: -97px;
+}
+
+#topbody{
+    margin-top: 80px;
+    width: 100px
+
+}
+
+#middlecontainer1{
+    margin-bottom: 50px;
+    margin-top: 56px;
+
+}
+
+table{
+    margin-left: 15px;
+
+}
+
+
+#cover{
+    height: 380px;
+    width: 1349px;
+}
+
+
+
+
+#midcover{
+    height: auto;
+    width: 1300px;
+
+}
+
+#gallary{
+    width: 23%;
+    margin-left: 22px;
+    margin-top: -64px;
+    float: left;
+}
+
+#display{
+
+}
+
